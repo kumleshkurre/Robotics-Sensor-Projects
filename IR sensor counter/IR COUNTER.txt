@@ -1,0 +1,10 @@
+                IR COUNTER
+LCD I2 CONNECTION
+1.VCC - 5V
+2.GND - GND
+3.SDA - A4
+4.SCL - A5
+ IR SENSOR
+1.VCC - 5V
+2.GND - GND
+3.OUT - A0
