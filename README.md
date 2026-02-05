@@ -19,3 +19,10 @@ Each project includes circuit logic and source code.
 Kumlesh Kurre
 # Robotics-Sensor-Projects
 Arduino-based robotics and sensor projects for learning and practice
+
+## 👨‍💻 Author
+ Kumlesh Kurre
+
+## ⭐ Support
+If you like this project, please ⭐ star the repository to support my work!
+  
